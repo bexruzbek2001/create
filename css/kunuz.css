@@ -1,0 +1,79 @@
+body{
+	background-image: url();
+}
+.bolimlar{
+	width: 50%;
+}
+.corona{
+	color: blue;
+	font-size: 30px;
+}
+.virys{
+	width: 100%;
+	font-size: 20px;
+}
+.son{
+	color: red;
+}
+.post1{
+
+	width: 100%;
+	background-color: #EFF2F8;
+}
+.songgilar{
+	vertical-align: top;
+	width: 20%;
+}
+.p11{
+	vertical-align: top;
+	text-align: top;
+	width: 100%;
+}
+.p12{
+	width: 100%;
+	color: rgba(0,0,0,0.5);
+}
+.r1{
+	vertical-align: top;
+	width: 100%;
+}
+.asosiy{
+	margin: 50px 50px 50px 50px;
+	padding: top;
+}
+.img{
+	width: 10px;
+	text-align: top;
+	vertical-align: text-top;
+}
+.w{
+	text-align: top;
+	vertical-align: top;
+}
+.ppp{
+	width: 100px;
+}
+.jadval{
+	width: 70%;
+}
+.dol{
+
+	width: 50%;
+	height: 100px;
+	size: 10px;
+}
+a{
+	text-decoration: none;
+}
+.Tugadi{
+	background-color: #131927;
+	width: 100%;
+}
+.ol{
+	
+	color: white;
+	width: 100%;
+}
+.r1 .p11{
+	width: 100%;
+}

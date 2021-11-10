@@ -1,0 +1,44 @@
+/*@font-face{
+	font-family: 'my font';
+	src:url('fonts/Black Tail.ttf');
+}
+@font-face{
+	font-family: 'my font2';
+	src:url('fonts/28 Days Later.ttf');
+}
+@font-face{
+	font-family: 'my font3';
+	src:url('fonts/NeitherlyDemoBlack.ttf');
+}
+p{ 
+	text-align: top;
+	color: red;
+	font-family: my font;
+	font-weight: bold;
+
+}
+a{
+	font-family: my font2;
+	font-size: 50px; 
+	letter-spacing: 20px;
+	text-decoration: none;
+}*/
+/*.bexruz{
+		font-family: my font3;
+	font-size: 40px;
+	background-color: rgba(100,100,100,0.5);
+	font-style: italic;
+	word-spacing: 100px;
+	text-transform:uppercase;
+	text-transform: capitalize;
+	text-decoration: line-through;
+
+}
+img{
+	vertical-align: top;
+}*/
+body{
+	background-size: 100%;
+	background-image: url(https://storage.kun.uz/source/6/adZ7Lu7FuhwNiEimtKJ50_1iVUNgSaTz.jpg);
+	background-repeat: no-repeat;
+}
